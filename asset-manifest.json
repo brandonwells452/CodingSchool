@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CodingSchool/static/css/main.2510e791.chunk.css",
+    "main.js": "/CodingSchool/static/js/main.120e7961.chunk.js",
+    "main.js.map": "/CodingSchool/static/js/main.120e7961.chunk.js.map",
+    "runtime-main.js": "/CodingSchool/static/js/runtime-main.24f09250.js",
+    "runtime-main.js.map": "/CodingSchool/static/js/runtime-main.24f09250.js.map",
+    "static/js/2.3e894e3a.chunk.js": "/CodingSchool/static/js/2.3e894e3a.chunk.js",
+    "static/js/2.3e894e3a.chunk.js.map": "/CodingSchool/static/js/2.3e894e3a.chunk.js.map",
+    "static/js/3.c31209a6.chunk.js": "/CodingSchool/static/js/3.c31209a6.chunk.js",
+    "static/js/3.c31209a6.chunk.js.map": "/CodingSchool/static/js/3.c31209a6.chunk.js.map",
+    "index.html": "/CodingSchool/index.html",
+    "static/css/main.2510e791.chunk.css.map": "/CodingSchool/static/css/main.2510e791.chunk.css.map",
+    "static/js/2.3e894e3a.chunk.js.LICENSE.txt": "/CodingSchool/static/js/2.3e894e3a.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/CodingSchool/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f09250.js",
+    "static/js/2.3e894e3a.chunk.js",
+    "static/css/main.2510e791.chunk.css",
+    "static/js/main.120e7961.chunk.js"
+  ]
+}
